@@ -9,7 +9,7 @@
 <br>GitHub: <strong>@MEVpro</strong>
 
 
-- | Current status: <strong>STUDY</strong>
+- Current status: <strong>STUDY</strong>
 
 <div>
     <ul><strong>| English</strong>
@@ -41,11 +41,3 @@
         </ul>
     </ul>
 </div>
-
-
-- <ul><strong>| Test</strong>
-    <ul><a href="https://www.efset.org/" target="_blank">EFSET.org</a>
-        <li>15 min test - Score 92% - C1 Advanced</li>
-        <li>30 min test - </li>
-    </ul>
- </ul>
