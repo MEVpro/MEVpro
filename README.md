@@ -14,16 +14,16 @@
 <div>
     <ul><strong>| English</strong>
         <ul><a href="https://www.efset.org/" target="_blank">EFSET.org</a>
-            <li>15 min test - Score 92% - C1 Advanced</li>
-            <li>30 min test - </li>
+            <li> - 15 min test - Score 92% - C1 Advanced</li>
+            <li> - 30 min test - </li>
         </ul>
     </ul>
 </div>
 
 <div>
     <ul><strong>| The Rolling Scope (RS) School</strong>
-        <ul>Stage 0</ul>
-        <ul>Stage 1</ul>
+        <ul> - Stage 0</ul>
+        <ul> - Stage 1</ul>
     </ul>
 </div>
 
