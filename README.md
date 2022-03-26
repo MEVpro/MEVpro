@@ -20,12 +20,7 @@
     </ul>
 </div>
 
-<div>
-    <ul><strong>| The Rolling Scope (RS) School</strong>
-        <li> - Stage 0</li>
-        <li> - Stage 1</li>
-    </ul>
-</div>
+
 
 <div>
     <ul><strong>| IT-Incubator</strong>
@@ -39,5 +34,12 @@
             <li> - Basic CSS - 44/44</li>
             <li> - Applied Visual Design - 0/52</li>
         </ul>
+    </ul>
+</div>
+
+<div>
+    <ul><strong>| The Rolling Scope (RS) School</strong>
+        <li> - Stage 0</li>
+        <li> - Stage 1</li>
     </ul>
 </div>
