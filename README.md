@@ -33,11 +33,11 @@
 </div>
 
 <div>
-    <ul><strong>| freeCodeCamp</strong>
+    <dl><strong>| freeCodeCamp</strong>
         <dl>Responsive Web Design
             <dt>Basic HTML and HTML5 - 28/28</dt>
             <dt>Basic CSS - 44/44</dt>
             <dt>Applied Visual Design - 0/52</dt>
         </dl>
-    </ul>
+    </dl>
 </div>
