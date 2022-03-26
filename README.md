@@ -7,11 +7,11 @@
 <br>Email: <strong>mev.acti0n@gmail.com;</strong>
 <br>Instagram: <strong>@mev.acti0n;</strong>
 <br>GitHub: <strong>@MEVpro</strong>
-
+<br>
 <div>
     | Current status: <strong>STUDY</strong>
 </div>
-
+<br>
 <div>
     <ul><strong>| English</strong>
         <ul><a href="https://www.efset.org/" target="_blank">EFSET.org</a>
