@@ -10,19 +10,17 @@
 
 - Current status: <strong>study</strong>
 
-<p><strong>English</strong>
+- <strong>English</strong>
     <br>EFSET.org 
-     <br>15 min test - Score 92% - C1 Advanced
-       <br>30 min test - 
-</p>
+    <br>15 min test - Score 92% - C1 Advanced
+    <br>30 min test - 
 
-<p><strong>The Rolling Scope (RS) School</strong>
+- <strong>The Rolling Scope (RS) School</strong>
     <br>Stage 0
-</p>
 
-<p><strong>IT-Incubator</strong></p>
+- <strong>IT-Incubator</strong>
 
-<p><strong>freeCodeCamp:</strong></p>
+- <strong>freeCodeCamp:</strong>
     <br>Responsive Web Design
         <br>Basic HTML and HTML5 - 28/28
         <br>Basic CSS - 44/44
