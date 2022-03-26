@@ -8,9 +8,8 @@
 <br>Instagram: <strong>@mev.acti0n;</strong>
 <br>GitHub: <strong>@MEVpro</strong>
 
-<div>
-    | Current status: <strong>STUDY</strong>
-</div>
+
+- | Current status: <strong>STUDY</strong>
 
 <div>
     <ul><strong>| English</strong>
