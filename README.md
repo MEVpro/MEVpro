@@ -8,7 +8,7 @@
 <br>Instagram: <strong>@mev.acti0n;</strong>
 <br>GitHub: <strong>@MEVpro</strong>
 
-<p>Current status: <strong>study</strong>
+- Current status: <strong>study</strong>
 
 <p><strong>English</strong>
     <br>EFSET.org 
