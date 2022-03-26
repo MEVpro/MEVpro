@@ -8,21 +8,32 @@
 <br>Instagram: <strong>@mev.acti0n;</strong>
 <br>GitHub: <strong>@MEVpro</strong>
 
-- Current status: <strong>STUDY</strong>
+- | Current status: <strong>STUDY</strong>
 
-<ul><strong>English</strong>
-    <ul><a href="https://www.efset.org/" target="_blank">EFSET.org</a>
-        <li>15 min test - Score 92% - C1 Advanced</li>
-        <li>30 min test - </li>
+<div>
+    <ul><strong>| English</strong>
+        <ul><a href="https://www.efset.org/" target="_blank">EFSET.org</a>
+            <li>15 min test - Score 92% - C1 Advanced</li>
+            <li>30 min test - </li>
         </ul>
     </ul>
-<strong>The Rolling Scope (RS) School</strong>
-        Stage 0
+</div>
 
-<strong>IT-Incubator</strong>
+<div>
+    <ul><strong>| The Rolling Scope (RS) School</strong>
+                <li>Stage 0</li>
+    </ul>
+</div>
 
-<strong>freeCodeCamp:</strong>
+<div>
+    <ul><strong>| IT-Incubator</strong>
+    </ul>
+</div>
+
+<div>
+    <strong>| freeCodeCamp:</strong>
         Responsive Web Design
             Basic HTML and HTML5 - 28/28
             Basic CSS - 44/44
             Applied Visual Design - 0/52
+</div>
