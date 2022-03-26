@@ -8,20 +8,22 @@
 <br>Instagram: <strong>@mev.acti0n;</strong>
 <br>GitHub: <strong>@MEVpro</strong>
 
-Current status: study
+<p>Current status: <strong>study</strong>
 
-English
-    EFSET.org 
-        15 min test - Score 92% - C1 Advanced
-        30 min test - 
+<p><strong>English</strong>
+    <br>EFSET.org 
+     <br>15 min test - Score 92% - C1 Advanced
+       <br>30 min test - 
+</p>
 
-The Rolling Scope (RS) School
-    Stage 0
+<p><strong>The Rolling Scope (RS) School</strong>
+    <br>Stage 0
+</p>
 
-IT-Incubator
+<p><strong>IT-Incubator</strong></p>
 
-freeCodeCamp:
-    Responsive Web Design
-        Basic HTML and HTML5 - 28/28
-        Basic CSS - 44/44
-        Applied Visual Design - 0/52
+<p><strong>freeCodeCamp:</strong></p>
+    <br>Responsive Web Design
+        <br>Basic HTML and HTML5 - 28/28
+        <br>Basic CSS - 44/44
+        <br>Applied Visual Design - 0/52
