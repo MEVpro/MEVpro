@@ -7,9 +7,11 @@
 <br>Email: <strong>mev.acti0n@gmail.com;</strong>
 <br>Instagram: <strong>@mev.acti0n;</strong>
 <br>GitHub: <strong>@MEVpro</strong>
+
 <div>
     | Current status: <strong>STUDY</strong>
 </div>
+
 <div>
     <ul><strong>| English</strong>
         <ul><a href="https://www.efset.org/" target="_blank">EFSET.org</a>
@@ -18,15 +20,19 @@
         </ul>
     </ul>
 </div>
+
 <div>
     <ul><strong>| The Rolling Scope (RS) School</strong>
         <li>Stage 0</li>
+        <li>Stage 1</li>
     </ul>
 </div>
+
 <div>
     <ul><strong>| IT-Incubator</strong>
     </ul>
 </div>
+
 <div>
     <ul><strong>| freeCodeCamp</strong>
         <ul>Responsive Web Design
