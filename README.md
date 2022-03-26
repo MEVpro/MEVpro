@@ -12,7 +12,7 @@
 - | Current status: <strong>STUDY</strong>
 
 <div>
-    <ul><strong>| English</strong>
+    <ul><strong> - | English</strong>
         <ul><a href="https://www.efset.org/" target="_blank">EFSET.org</a>
             <li>15 min test - Score 92% - C1 Advanced</li>
             <li>30 min test - </li>
@@ -22,8 +22,8 @@
 
 <div>
     <ul><strong>| The Rolling Scope (RS) School</strong>
-        <li>Stage 0</li>
-        <li>Stage 1</li>
+        <ul>Stage 0</ul>
+        <ul>Stage 1</ul>
     </ul>
 </div>
 
@@ -41,3 +41,11 @@
         </ul>
     </ul>
 </div>
+
+
+-<ul><strong> - | Test</strong>
+        <ul><a href="https://www.efset.org/" target="_blank">EFSET.org</a>
+            <li>15 min test - Score 92% - C1 Advanced</li>
+            <li>30 min test - </li>
+        </ul>
+ </ul>
