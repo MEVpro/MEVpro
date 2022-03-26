@@ -14,8 +14,8 @@
 <div>
     <ul><strong>| English</strong>
         <ul><a href="https://www.efset.org/" target="_blank">EFSET.org</a>
-            <li> - 15 min test - Score 92% - C1 Advanced</li>
-            <li> - 30 min test - </li>
+            <li> 15 min test - Score 92% - C1 Advanced</li>
+            <li> 30 min test - </li>
         </ul>
     </ul>
 </div>
@@ -35,9 +35,9 @@
 <div>
     <ul><strong>| freeCodeCamp</strong>
         <ul><b>Responsive Web Design</b>
-            <li> - Basic HTML and HTML5 - 28/28</li>
-            <li> - Basic CSS - 44/44</li>
-            <li> - Applied Visual Design - 0/52</li>
+            <li> Basic HTML and HTML5 - 28/28</li>
+            <li> Basic CSS - 44/44</li>
+            <li> Applied Visual Design - 0/52</li>
         </ul>
     </ul>
 </div>
