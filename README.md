@@ -34,10 +34,10 @@
 
 <div>
     <ul><strong>| freeCodeCamp</strong>
-        <ul>Responsive Web Design
-            <li>Basic HTML and HTML5 - 28/28</li>
-            <li>Basic CSS - 44/44</li>
-            <li>Applied Visual Design - 0/52</li>
-        </ul>
+        <dl>Responsive Web Design
+            <dt>Basic HTML and HTML5 - 28/28</dt>
+            <dt>Basic CSS - 44/44</dt>
+            <dt>Applied Visual Design - 0/52</dt>
+        </dl>
     </ul>
 </div>
