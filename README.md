@@ -7,7 +7,7 @@
 <br>Email: <strong>mev.acti0n@gmail.com;</strong>
 <br>Instagram: <strong>@mev.acti0n;</strong>
 <br>GitHub: <strong>@MEVpro</strong>
-<hr>
+
 - | Current status: <strong>STUDY</strong>
 <hr>
 <div>
