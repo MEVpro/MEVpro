@@ -22,8 +22,8 @@
 
 <div>
     <ul><strong>| The Rolling Scope (RS) School</strong>
-        <ul>Stage 0</ul>
-        <ul>Stage 1</ul>
+        <li>Stage 0</li>
+        <li>Stage 1</li>
     </ul>
 </div>
 
