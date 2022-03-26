@@ -10,7 +10,7 @@
 
 <div>
     | Current status: <strong>STUDY</strong>
-/div>
+</div>
 
 <div>
     <ul><strong>| English</strong>
