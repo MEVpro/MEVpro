@@ -37,8 +37,8 @@
             <li> Basic HTML and HTML5 - 28/28</li>
             <li> Basic CSS - 44/44</li>
             <li> Applied Visual Design - 52/52</li>
-            <li> Applied Accessibility - 22/22</li
-            <li>Responsive Web Design Principles - 0/4</li>
+            <li> Applied Accessibility - 22/22</li>
+            <li> Responsive Web Design Principles - 0/4</li>
         </ul>
     </ul>
 </div>
