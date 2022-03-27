@@ -39,7 +39,9 @@
             <li> Applied Visual Design - 52/52</li>
             <li> Applied Accessibility - 22/22</li>
             <li> Responsive Web Design Principles - 4/4</li>
-            <li> CSS Flexbox - 0/17</li>
+            <li> CSS Flexbox - 17/17</li>
+            <li> CSS Grid - 0/22</li>
+            <li> Responsive Web Design Projects</li>
         </ul>
     </ul>
 </div>
