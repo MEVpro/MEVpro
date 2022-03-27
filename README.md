@@ -38,7 +38,8 @@
             <li> Basic CSS - 44/44</li>
             <li> Applied Visual Design - 52/52</li>
             <li> Applied Accessibility - 22/22</li>
-            <li> Responsive Web Design Principles - 0/4</li>
+            <li> Responsive Web Design Principles - 4/4</li>
+            <li> CSS Flexbox - 0/17</li>
         </ul>
     </ul>
 </div>
