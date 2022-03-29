@@ -16,6 +16,8 @@
             <li> 15 min test - Score 92% - C1 Advanced</li>
             <li> 30 min test - </li>
         </ul>
+        <ul><a href="https://lingualeo.com" target="_blank">Lingualeo</a>
+        </ul>
     </ul>
 </div>
 
