@@ -12,7 +12,7 @@
 <hr>
 <div>
     <ul><strong>| English</strong>
-        <ul><a href="https://www.efset.org/" target="_blank">EFSET.org</a>
+        <ul><a href="https://www.efset.org" target="_blank">EFSET.org</a>
             <li> 15 min test - Score 92% - C1 Advanced</li>
             <li> 30 min test - </li>
         </ul>
@@ -20,7 +20,7 @@
 </div>
 
 <div>
-    <ul><strong>| [The Rolling Scope (RS) School](https://rollingscopes.com/)</strong>
+    <ul><strong>| <a href="https://rollingscopes.com" target="_blank">The Rolling Scope (RS) School</a></strong>
         <ul> Stage 0</ul>
         <ul> Stage 1</ul>
     </ul>
