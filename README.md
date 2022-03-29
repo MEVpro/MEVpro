@@ -27,12 +27,12 @@
 </div>
 
 <div>
-    <ul><strong>| [IT-Incubator](https://it-incubator.by/)</strong>
+    <ul><strong>| <a href="https://it-incubator.by" target="_blank">IT-Incubator</a></strong>
     </ul>
 </div>
 
 <div>
-    <ul><strong>| [freeCodeCamp](https://www.freecodecamp.org)</strong>
+    <ul><strong>| <a href="https://www.freecodecamp.org" target="_blank">freeCodeCamp</a></strong>
         <ul><b>Responsive Web Design</b>
             <li> Basic HTML and HTML5 - 28/28</li>
             <li> Basic CSS - 44/44</li>
