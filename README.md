@@ -6,7 +6,7 @@
 <br>Telegram: <strong>@MitinEvgeny;</strong>
 <br>Email: <strong>mev.acti0n@gmail.com;</strong>
 <br>Instagram: <strong>@mev.acti0n;</strong>
-<br>GitHub: <strong>@MEVpro</strong>
+<br>GitHub: <strong>@MEVpro;</strong>
 
 - | Current status: <strong>STUDY</strong>
 <hr>
@@ -20,19 +20,19 @@
 </div>
 
 <div>
-    <ul><strong>| The Rolling Scope (RS) School</strong>
+    <ul><strong>| [The Rolling Scope (RS) School](https://rollingscopes.com/)</strong>
         <ul> Stage 0</ul>
         <ul> Stage 1</ul>
     </ul>
 </div>
 
 <div>
-    <ul><strong>| IT-Incubator</strong>
+    <ul><strong>| [IT-Incubator](https://it-incubator.by/)</strong>
     </ul>
 </div>
 
 <div>
-    <ul><strong>| freeCodeCamp</strong>
+    <ul><strong>| [freeCodeCamp](https://www.freecodecamp.org)</strong>
         <ul><b>Responsive Web Design</b>
             <li> Basic HTML and HTML5 - 28/28</li>
             <li> Basic CSS - 44/44</li>
