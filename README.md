@@ -12,7 +12,7 @@
 <hr>
 <div>
     <ul><strong>| English</strong>
-        <ul><a href="https://www.efset.org" target="_blank" rel="noopener noreferrer">EFSET.org</a>
+        <ul><a href="https://www.efset.org" target="_blank">EFSET.org</a>
             <li> 15 min test - Score 92% - C1 Advanced</li>
             <li> 30 min test - </li>
         </ul>
