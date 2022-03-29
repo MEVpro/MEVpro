@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning HTML & CSS & JavaScript
 - 💞️ I’m looking to collaborate to study Programming and English
 - 📫 How to reach me: 
-<br>Telegram: <strong>@MitinEvgeny;</strong>
-<br>Email: <strong>mev.acti0n@gmail.com;</strong>
-<br>Instagram: <strong>@mev.acti0n;</strong>
-<br>GitHub: <strong>@MEVpro;</strong>
+<br>Telegram: <strong>@MitinEvgeny</strong>
+<br>Email: <strong>mev.acti0n@gmail.com</strong>
+<br>Instagram: <strong>@mev.acti0n</strong>
+<br>GitHub: <strong>@MEVpro</strong>
 
 - | Current status: <strong>STUDY</strong>
 <hr>
