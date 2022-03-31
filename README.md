@@ -23,8 +23,8 @@
 
 <div>
     <ul><strong>| <a href="https://rollingscopes.com" target="_blank">The Rolling Scope (RS) School</a></strong>
-        <ul> Stage 0</ul>
-        <ul> Stage 1</ul>
+        <ul> Stage 0 - [in progress]</ul>
+        <ul> Stage 1 - [in progress]</ul>
     </ul>
 </div>
 
