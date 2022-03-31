@@ -35,7 +35,7 @@
 
 <div>
     <ul><strong>| <a href="https://www.freecodecamp.org" target="_blank">freeCodeCamp</a></strong>
-        <ul><b>Responsive Web Design</b>
+        <ul><b>Responsive Web Design</b> - [ In progress ]
             <li> Basic HTML and HTML5 - 28/28</li>
             <li> Basic CSS - 44/44</li>
             <li> Applied Visual Design - 52/52</li>
