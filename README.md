@@ -29,7 +29,7 @@
 </div>
 
 <div>
-    <ul><strong>| <a href="https://it-incubator.by" target="_blank">IT-Incubator [ Not started ]</a></strong>
+    <ul><strong>| <a href="https://it-incubator.by" target="_blank">IT-Incubator</a></strong> - [ Not started ]
     </ul>
 </div>
 
