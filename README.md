@@ -11,7 +11,7 @@
 - | Current status: <strong>STUDY</strong>
 <hr>
 <div>
-    <ul><strong>| English</strong><br>
+    <ul><strong>| English</strong>
         <ul><a href="https://www.efset.org" target="_blank">EFSET.org</a>
             <li> 15 min test - Score 92% - C1 Advanced</li>
             <li> 30 min test - </li>
@@ -22,7 +22,7 @@
 </div>
 
 <div>
-    <ul><strong>| <a href="https://rollingscopes.com" target="_blank">The Rolling Scope (RS) School</a></strong><br>
+    <ul><strong>| <a href="https://rollingscopes.com" target="_blank">The Rolling Scope (RS) School</a></strong>
         <ul> Stage 0 - [ In progress ]</ul>
         <ul> Stage 1 - [ In progress ]</ul>
     </ul>
