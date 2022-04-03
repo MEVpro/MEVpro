@@ -44,7 +44,7 @@
             <li> CSS Flexbox - 17/17</li>
             <li> CSS Grid - 22/22</li>
             <li> Responsive Web Design Projects</li>
-        </ul>
+        </ul><br>
         <ul><b>JavaScript Algorithms and Data Structures</b> - [ In progress ]
             <li> Basic JavaScript - 8/113</li>
         </ul>
