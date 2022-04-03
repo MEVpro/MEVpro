@@ -10,21 +10,21 @@
 ---
 - | Current status: <strong>STUDY</strong>
 ---
->   ###<strong>| English</strong>
->       <a href="https://www.efset.org" target="_blank">EFSET.org</a>
+>   ### <strong>| English</strong>
+>>      <a href="https://www.efset.org" target="_blank">EFSET.org</a>
 >           15 min test - Score 92% - C1 Advanced
 >           30 min test - 
 >
->       <a href="https://lingualeo.com" target="_blank">Lingualeo</a>
+>>      <a href="https://lingualeo.com" target="_blank">Lingualeo</a>
 >
 >
->   ###<strong>| <a href="https://rollingscopes.com" target="_blank">The Rolling Scope (RS) School</a></strong>
+>   ### <strong>| <a href="https://rollingscopes.com" target="_blank">The Rolling Scope (RS) School</a></strong>
 >       Stage 0 - [ In progress ]
 >       Stage 1 - [ In progress ]
 >
->   ###<strong>| <a href="https://it-incubator.by" target="_blank">IT-Incubator</a></strong> - [ Not started ]
+>   ### <strong>| <a href="https://it-incubator.by" target="_blank">IT-Incubator</a></strong> - [ Not started ]
 >
->   ###<strong>| <a href="https://www.freecodecamp.org" target="_blank">freeCodeCamp</a></strong>
+>   ### <strong>| <a href="https://www.freecodecamp.org" target="_blank">freeCodeCamp</a></strong>
 >       <b>Responsive Web Design</b> - [ In progress ]
 >           Basic HTML and HTML5 - 28/28
 >           Basic CSS - 44/44
@@ -37,6 +37,6 @@
 >
 ><br>
 >
-><b>JavaScript Algorithms and Data Structures</b> - [ In progress ]
->Basic JavaScript - 8/113
+>   ### <b>JavaScript Algorithms and Data Structures</b> - [ In progress ]
+>       Basic JavaScript - 8/113
 
