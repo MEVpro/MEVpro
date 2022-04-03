@@ -19,7 +19,7 @@
 >
 >> [Lingualeo](https://lingualeo.com)
 > ## [The Rolling Scope (RS) School](https://rollingscopes.com)
->> **HTML & CSS & JAVA SCRIPT**
+>> **HTML & CSS & JAVASCRIPT**
 >> - Stage 0 - [ In progress ]
 >> - Stage 1 - [ In progress ]
 >
