@@ -7,46 +7,36 @@
 <br>Email: <strong>mev.acti0n@gmail.com</strong>
 <br>Instagram: <strong>@mev.acti0n</strong>
 <br>GitHub: <strong>@MEVpro</strong>
-
+---
 - | Current status: <strong>STUDY</strong>
-<hr>
-<div>
-    <ul><strong>| English</strong>
-        <ul><a href="https://www.efset.org" target="_blank">EFSET.org</a>
-            <li> 15 min test - Score 92% - C1 Advanced</li>
-            <li> 30 min test - </li>
-        </ul>
-        <ul><a href="https://lingualeo.com" target="_blank">Lingualeo</a>
-        </ul>
-    </ul>
-</div>
+---
+>   ###<strong>| English</strong>
+>       <a href="https://www.efset.org" target="_blank">EFSET.org</a>
+>           15 min test - Score 92% - C1 Advanced
+>           30 min test - 
+>
+>       <a href="https://lingualeo.com" target="_blank">Lingualeo</a>
+>
+>
+>   ###<strong>| <a href="https://rollingscopes.com" target="_blank">The Rolling Scope (RS) School</a></strong>
+>       Stage 0 - [ In progress ]
+>       Stage 1 - [ In progress ]
+>
+>   ###<strong>| <a href="https://it-incubator.by" target="_blank">IT-Incubator</a></strong> - [ Not started ]
+>
+>   ###<strong>| <a href="https://www.freecodecamp.org" target="_blank">freeCodeCamp</a></strong>
+>       <b>Responsive Web Design</b> - [ In progress ]
+>           Basic HTML and HTML5 - 28/28
+>           Basic CSS - 44/44
+>           Applied Visual Design - 52/52
+>           Applied Accessibility - 22/22
+>           Responsive Web Design Principles - 4/4
+>           CSS Flexbox - 17/17
+>           CSS Grid - 22/22
+>           Responsive Web Design Projects
+>
+><br>
+>
+><b>JavaScript Algorithms and Data Structures</b> - [ In progress ]
+>Basic JavaScript - 8/113
 
-<div>
-    <ul><strong>| <a href="https://rollingscopes.com" target="_blank">The Rolling Scope (RS) School</a></strong>
-        <ul> Stage 0 - [ In progress ]</ul>
-        <ul> Stage 1 - [ In progress ]</ul>
-    </ul>
-</div>
-
-<div>
-    <ul><strong>| <a href="https://it-incubator.by" target="_blank">IT-Incubator</a></strong> - [ Not started ]
-    </ul>
-</div>
-
-<div>
-    <ul><strong>| <a href="https://www.freecodecamp.org" target="_blank">freeCodeCamp</a></strong>
-        <ul><b>Responsive Web Design</b> - [ In progress ]
-            <li> Basic HTML and HTML5 - 28/28</li>
-            <li> Basic CSS - 44/44</li>
-            <li> Applied Visual Design - 52/52</li>
-            <li> Applied Accessibility - 22/22</li>
-            <li> Responsive Web Design Principles - 4/4</li>
-            <li> CSS Flexbox - 17/17</li>
-            <li> CSS Grid - 22/22</li>
-            <li> Responsive Web Design Projects</li>
-        </ul><br>
-        <ul><b>JavaScript Algorithms and Data Structures</b> - [ In progress ]
-            <li> Basic JavaScript - 8/113</li>
-        </ul>
-    </ul>
-</div>
