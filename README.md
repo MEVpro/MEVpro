@@ -26,17 +26,28 @@
 > ## [IT-Incubator](https://it-incubator.by) - [ Not started ]
 >
 > ## [freeCodeCamp](https://www.freecodecamp.org)
+>> **HTML & CSS**
 >> - **Responsive Web Design** - [ In progress ]
 >>           
->>       Basic HTML and HTML5 -------------------------- 28/28
->>       Basic CSS ------------------------------------- 44/44
->>       Applied Visual Design ------------------------- 52/52
->>       Applied Accessibility ------------------------- 22/22
->>       Responsive Web Design Principles ---------------04/04
->>       CSS Flexbox ----------------------------------- 17/17
->>       CSS Grid -------------------------------------- 22/22
+>>       Basic HTML and HTML5 -------------------------------- 028/028
+>>       Basic CSS ------------------------------------------- 044/044
+>>       Applied Visual Design ------------------------------- 052/052
+>>       Applied Accessibility ------------------------------- 022/022
+>>       Responsive Web Design Principles -------------------- 004/004
+>>       CSS Flexbox ----------------------------------------- 017/017
+>>       CSS Grid -------------------------------------------- 022/022
 >>       Responsive Web Design Projects
 > 
->> - **JavaScript Algorithms and Data Structures** - [ In progress ]
->>  
->>       Basic JavaScript ------------------------------ 8/113
+>> **JAVASCRIPT**
+>>  - **JavaScript Algorithms and Data Structures** - [ In progress ]
+>>           
+>>       Basic JavaScript ------------------------------------ 048/113
+>>       ES6 ------------------------------------------------- 000/029
+>>       Regular Expressions --------------------------------- 000/033
+>>       Debugging ------------------------------------------- 000/012
+>>       Basic Data Structures ------------------------------- 000/020
+>>       Basic Algorithm Scripting --------------------------- 000/016
+>>       Object Oriented Programming ------------------------- 000/026
+>>       Functional Programming ------------------------------ 000/024
+>>       Intermediate Algorithm Scripting -------------------- 000/021
+>>       JavaScript Algorithms and Data Structures Projects -- 000/005
