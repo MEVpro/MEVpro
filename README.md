@@ -65,3 +65,14 @@
 >> - 30 min test - 
 >
 >> [Lingualeo](https://lingualeo.com)
+>
+---
+> ## **3D Modelling for GameDev**
+>> [myfreedom](https://myfreedom.by/courses/3d-school)
+>> 
+>> - 3D Studio Max
+>> - Maya / Blender
+>> - Zbrush
+>> - Substance Painter
+>> - Marmoset
+
