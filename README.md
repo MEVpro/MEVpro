@@ -68,7 +68,7 @@
 >
 ---
 > ## **3D Modelling for GameDev**
->> [myfreedom](https://myfreedom.by/courses/3d-school)
+>> [myfreedom](https://myfreedom.by/courses/3d-school) - [Not finished]
 >> 
 >> - 3D Studio Max
 >> - Maya / Blender
