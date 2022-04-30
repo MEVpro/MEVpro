@@ -28,7 +28,7 @@
 > ## [Code Basics](https://ru.code-basics.com/)
 >>           
 >>       HTML для начинающих --------------------------------- 000/041
->>       JavaScript для начинающих --------------------------- 068/072
+>>       JavaScript для начинающих --------------------------- 070/072
 >
 > ## [freeCodeCamp](https://www.freecodecamp.org)
 >> ### **HTML & CSS**
