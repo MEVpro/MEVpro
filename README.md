@@ -34,19 +34,19 @@
 >> ### **HTML & CSS**
 >> - **Responsive Web Design** - [ In progress ]
 >>           
->>       Basic HTML and HTML5 -------------------------------- 028/028
->>       Basic CSS ------------------------------------------- 044/044
->>       Applied Visual Design ------------------------------- 052/052
->>       Applied Accessibility ------------------------------- 022/022
->>       Responsive Web Design Principles -------------------- 004/004
->>       CSS Flexbox ----------------------------------------- 017/017
->>       CSS Grid -------------------------------------------- 022/022
+>>       Basic HTML and HTML5 -------------------------------- 028/028 [DONE]
+>>       Basic CSS ------------------------------------------- 044/044 [DONE]
+>>       Applied Visual Design ------------------------------- 052/052 [DONE]
+>>       Applied Accessibility ------------------------------- 022/022 [DONE]
+>>       Responsive Web Design Principles -------------------- 004/004 [DONE]
+>>       CSS Flexbox ----------------------------------------- 017/017 [DONE]
+>>       CSS Grid -------------------------------------------- 022/022 [DONE]
 >>       Responsive Web Design Projects
 >
 >> ### **JAVASCRIPT**
 >> - **JavaScript Algorithms and Data Structures** - [ In progress ]
 >>           
->>       Basic JavaScript ------------------------------------ 048/113
+>>       Basic JavaScript ------------------------------------ 048/113 
 >>       ES6 ------------------------------------------------- 000/029
 >>       Regular Expressions --------------------------------- 000/033
 >>       Debugging ------------------------------------------- 000/012
