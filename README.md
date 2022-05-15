@@ -20,7 +20,7 @@
 >> - Stage 0 - [ In progress ]
 >> - Stage 1 - [ In progress ]
 >
-> ## [IT-Incubator](https://it-incubator.by) - [ Not started ]
+> ## [IT-Incubator](https://it-incubator.by) - [STARTED]
 >>
 >>
 >>
