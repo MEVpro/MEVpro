@@ -23,12 +23,17 @@
 > ## [IT-Incubator](https://it-incubator.by) - [STARTED]
 >>
 >>
+>
+> ## [CodeWars](www.codewars.com) - [7 kyu]
 >>
+>>       Total Completed Kata ------------------------------- 013/999
+>>       Highest Trained Kata JavaScript -------------------- 7 kyu
 >
 > ## [Code Basics](https://ru.code-basics.com/)
 >>           
->>       HTML для начинающих --------------------------------- 000/041
->>       JavaScript для начинающих --------------------------- 072/072 [DONE]
+>>      HTML для начинающих --------------------------------- 000/041
+>>      JavaScript для начинающих --------------------------- 072/072
+>>   
 >
 > ## [freeCodeCamp](https://www.freecodecamp.org)
 >> ### **HTML & CSS**
